@@ -1,4 +1,4 @@
-:bar_chart: ###License
+:bar_chart: ### License
 
-MIT (c) [WangLichao](http://wanglichao.com)
+[MIT](https://github.com/0532/wanglichao/blob/master/LICENSE) © [WangLichao](http://wanglichao.com)
 
