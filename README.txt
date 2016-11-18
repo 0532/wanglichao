@@ -23,6 +23,4 @@
 * 
 *                          佛祖保佑         永无bug
 * 
- 
-:bar_chart: [MIT](https://github.com/0532/wanglichao/blob/master/LICENSE) © [WangLichao](http://resume.wanglichao.com)
 
